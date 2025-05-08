@@ -7,8 +7,6 @@ This repository contains a research paper (PDF, in Japanese) on a newly identifi
 
 The paper outlines how trust-based interactions with language models can lead to a breakdown of ethical control, including unintended disclosure of sensitive internal data.
 
-## Author
-Independent researcher  
-GitHub: [@your_username]  
-Language: Japanese  
-License: CC BY-NC-SA 4.0
+Contact
+For inquiries or feedback, feel free to contact me at:
+theater.kaede@gmail.com
